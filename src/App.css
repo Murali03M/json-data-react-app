@@ -1,0 +1,33 @@
+
+.header
+{
+  height: 80px;
+  
+}
+
+
+.form
+{
+  background: yellow;
+  width: 100%;
+}
+
+.selected 
+{
+  background-color: black;
+  backface-visibility: visible;
+  color:white;
+ 
+
+}
+
+button
+{
+   display: inline-block;
+   width: 33.3%;
+   font-size: 25px;
+   border:1px solid black;
+   
+
+
+}
