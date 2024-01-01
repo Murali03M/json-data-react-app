@@ -1,8 +1,27 @@
-# React + Vite
+# React Basic app
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Used Technology 
+ 1) React + Vite
+ 2) JsonPlaceholder api data
+ 3) fetch functionlity
 
-Currently, two official plugins are available:
+Some images from the website :
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ ![image](https://github.com/Murali03M/json-data-react-app/assets/73110751/ca7d4614-3b6e-470e-9696-2852718599cf)
+
+
+ ![image](https://github.com/Murali03M/json-data-react-app/assets/73110751/88e66737-96d9-4fe3-8bed-a8bea12de75b)
+
+
+ ![image](https://github.com/Murali03M/json-data-react-app/assets/73110751/e1d7befd-13c3-459b-9c04-4a09561ee556)
+
+
+ 
+
+
+
+
+
+
+
+  
