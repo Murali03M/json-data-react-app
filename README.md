@@ -3,7 +3,7 @@
 Used Technology 
  1) React + Vite
  2) JsonPlaceholder api data
- 3) fetch functionlity
+ 3) fetch functionality
 
 Some images from the website :
 
